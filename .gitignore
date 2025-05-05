@@ -1,4 +1,9 @@
 .venv/
 hw3/catboost_info
 hw4/MNIST
+hw5/final_submission.csv
+hw5/testset
+hw5/train
+hw5/journey-springfield.zip
+journey-springfield.zip
 Junk.ipynb
